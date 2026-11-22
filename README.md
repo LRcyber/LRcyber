@@ -6,19 +6,19 @@
 </p>
 
 
-
 <h2 align="center">🤖 Inteligência Artificial & Automação</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg"
-       width="38" height="38" alt="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF"
+       width="40" height="40" alt="ChatGPT"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg"
-       width="38" height="38" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/claude/D97757"
+       width="40" height="40" alt="Claude"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg"
-       width="38" height="38" alt="DeepSeek"/>
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE"
+       width="40" height="40" alt="DeepSeek"/>
 </p>
+
 
 <h2 align="center">🎨 Design & Criação Digital</h2>
 
