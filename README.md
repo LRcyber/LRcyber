@@ -2,7 +2,17 @@
 <h2 align="center">🚀 Linguagens e Tecnologias</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,c,js,html,css,ai,ps,blender,figma&perline=6&size=40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,java,spring,python,c,r,mysql,js,html,css,git,github&perline=8&size=32" />
+</p>
+
+<h2 align="center">🤖 Inteligência Artificial & Automação</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=chatgpt,claude,ai,n8n&perline=8&size=32" />
+</p>
+
+<h2 align="center">🎨 Design & Criação Digital</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender&perline=8&size=32" />
 </p>
