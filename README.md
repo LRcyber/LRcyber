@@ -8,7 +8,7 @@
 <h2 align="center">🤖 Inteligência Artificial & Automação</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=chatgpt,claude,ai,n8n&perline=8&size=32" />
+  <img src="https://skillicons.dev/icons?i=chatgpt,claude,deepseek&perline=3" />
 </p>
 
 <h2 align="center">🎨 Design & Criação Digital</h2>
